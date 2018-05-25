@@ -4,6 +4,7 @@ output: github_document
 ---
 
 # MAKE A BIG TITLE!
+##### Add a small subtitle
 
 ### Introduction to R 
 

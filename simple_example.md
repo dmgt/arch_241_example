@@ -4,6 +4,8 @@ HW 2
 MAKE A BIG TITLE!
 =================
 
+##### Add a small subtitle
+
 ### Introduction to R
 
 ``` r
