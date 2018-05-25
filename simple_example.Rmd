@@ -3,6 +3,8 @@ title: "HW 2"
 output: github_document
 ---
 
+# MAKE A BIG TITLE!
+
 ### Introduction to R 
 
 ```{r}
